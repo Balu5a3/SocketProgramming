@@ -1,0 +1,6 @@
+D:\VS2034\SocketProgramming\Client\bin\Debug\Client.exe.config
+D:\VS2034\SocketProgramming\Client\bin\Debug\Client.exe
+D:\VS2034\SocketProgramming\Client\bin\Debug\Client.pdb
+D:\VS2034\SocketProgramming\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\VS2034\SocketProgramming\Client\obj\Debug\Client.exe
+D:\VS2034\SocketProgramming\Client\obj\Debug\Client.pdb

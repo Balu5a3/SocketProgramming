@@ -1,0 +1,6 @@
+D:\VS2034\SocketProgramming\SocketProgramming\bin\Debug\SocketProgramming.exe.config
+D:\VS2034\SocketProgramming\SocketProgramming\bin\Debug\SocketProgramming.exe
+D:\VS2034\SocketProgramming\SocketProgramming\bin\Debug\SocketProgramming.pdb
+D:\VS2034\SocketProgramming\SocketProgramming\obj\Debug\SocketProgramming.csprojResolveAssemblyReference.cache
+D:\VS2034\SocketProgramming\SocketProgramming\obj\Debug\SocketProgramming.exe
+D:\VS2034\SocketProgramming\SocketProgramming\obj\Debug\SocketProgramming.pdb
